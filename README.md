@@ -1,2 +1,2 @@
 # Datasets
-This repositories consists of the some useful datasets
+Resources to find datasets:- https://www.kaggle.com/datasets
